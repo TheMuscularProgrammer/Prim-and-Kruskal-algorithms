@@ -1,0 +1,3 @@
+Kruskal < 43 >
+Prim < 43 >
+Kruskal2 < 46 >
